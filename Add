@@ -1,0 +1,6 @@
+
+int a,b;
+main()
+{
+print("sum of 2 numbers:" +(a+b));
+}
